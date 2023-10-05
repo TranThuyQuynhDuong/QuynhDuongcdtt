@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+<<<<<<< HEAD
 //froned
 Route::get('/','App\Http\Controllers\HomeController@index');
 Route::get('/trang-chu','App\Http\Controllers\HomeController@index');
@@ -59,3 +60,9 @@ Route::post('/update-product/{product_id}', 'App\Http\Controllers\ProductControl
 
 
 
+=======
+
+Route::get('/', function () {
+    return view('welcome');
+});
+>>>>>>> d06260a1aafa07b87d6d24a6a626c2d1ed759f28
