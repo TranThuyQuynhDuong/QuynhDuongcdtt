@@ -1,0 +1,37 @@
+.contact .product-item
+{
+    height: 200px;
+    padding: 18px;
+    margin-top: 20px;
+    background-color: rgb(228, 228, 223);
+}
+*{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:16px;
+}
+
+.map
+{
+    border: 2px solid green;
+    width: 400px;
+    height: 400px;
+    margin-left: 20px;
+}
+.contact h1
+{
+    background-color: green;
+    color: white;
+    padding-bottom: 20px;
+}
+.contact h5
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.maincontentproduct .text-center
+{
+    margin-top: 20px;
+    padding: 15px;
+    color: white;
+    background-color: green;
+}

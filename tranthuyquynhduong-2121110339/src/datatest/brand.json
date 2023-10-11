@@ -1,0 +1,78 @@
+{
+    "brands":[
+        
+        {
+            "name":"Hoodie Zip Rubber Tag",
+            "image":"https://levents.asia/wp-content/uploads/2022/08/z3664112662752_d41214f06e26b38d43ac0f416a1f9463_cc236032a6894b94ba49c00993c9c4c4-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {"name":"Tee Type Logo",
+        "image":"https://levents.asia/wp-content/uploads/2022/11/z3952944175824_23b6d2a80e34b77e30c9a9edbf6abf9b-1536x1536.jpg",
+        "price":45000,
+        "pricesale":10000
+        },
+        {
+            "name":"Bomber Jacket UNI",
+            "image":"https://levents.asia/wp-content/uploads/2022/10/z3835473589564_b78c19d7de3deefb60fd2c0b333a46a6_4fd1604a95d642dfa13b757bf46bce34-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Sweatpant Rubber Tag",
+            "image":"https://levents.asia/wp-content/uploads/2022/11/z3953250894659_524622aed1ba0399d44daf34c81b0dc2-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Jogger Tee",
+            "image":"https://levents.asia/wp-content/uploads/2023/05/z4366452808032_68dbd6a56705b002b265d200362442a9-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Bichontour Tee",
+            "image":"https://levents.asia/wp-content/uploads/2023/03/z4294278920849_d1bb4734b2a7deff20412862e774c88a-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Punch Varsity Green",
+            "image":"https://levents.asia/wp-content/uploads/2022/10/z3835474330214_3097975e2d8f1a6826e019382bd06c0c_df9bfec51e224ba2ae69c88a14df1fe7-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Sweater Seam",
+            "image":"https://levents.asia/wp-content/uploads/2022/10/z3958899575104_af571906fd7828d3b15f025cd6dbf6f8-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Short Black",
+            "image":"https://levents.asia/wp-content/uploads/2022/08/z3583815365320_eca261484d84dfab8c817ed34744fa6d-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Skinny Jeans Blue",
+            "image":"https://levents.asia/wp-content/uploads/2022/10/z3734003639749_9af5788d065fc1d9b85396c1012e948a-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Doraemon Famous Cat Tee",
+            "image":"https://levents.asia/wp-content/uploads/2022/08/z3745138708990_ae6f522e0a05800faa5a33c159841f4b-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        },
+        {
+            "name":"Tee Hazy",
+            "image":"https://levents.asia/wp-content/uploads/2022/11/z3952943732607_ef28f73ba15504f5f7e76ee50c748b76-1536x1536.jpg",
+            "price":45000,
+            "pricesale":10000
+        }
+
+
+    ]
+}
